@@ -7,5 +7,5 @@ document.getElementById("noButton").addEventListener("mouseover", function() {
 });
 
 document.getElementById("yesButton").addEventListener("click", function() {
-    alert("Yay! I knew you'd say YES! ❤️🎉");
+    alert("I LOVE YOU ❤️");
 });
